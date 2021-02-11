@@ -31,6 +31,12 @@ img {
   width: 80%;
 }
 
+button {
+  margin-top: 2%;;
+  color: rgb(199, 27, 27);
+  font-size: 2rem;
+}
+
 footer {
   margin-top: 5%;
   color: #EEEEEE;
